@@ -3,7 +3,7 @@
 	[
 		{
 			"name": "Supreme-Elite (ZE)",
-			"mapList": "https://fastdl.supreme-elite.fr/css-ze/maps/maplist.csv",
+			"mapList": "https://gist.githubusercontent.com/cmer81/1d8ecd0e4c38c4d2a2d3548b14e28e8c/raw/56d4a16ecb9d63eb14f31cf5f004559cfa3db5a4/maplist.csv",
 			"fastDL": "https://fastdl.supreme-elite.fr/css-ze/maps/",
 			"appID": "232330",
 			"mapsDirectory": "\\cstrike\\download\\maps\\"
