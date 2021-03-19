@@ -31,7 +31,7 @@ namespace MapDownloader
         private void lblLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             lblLink.LinkVisited = true;
-            Functions.OpenBrowser("https://github.com/Vauff/MapDownloader");
+            Functions.OpenBrowser("https://github.com/Supreme-Elite/MapDownloade");
         }
     }
 }
