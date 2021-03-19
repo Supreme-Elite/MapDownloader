@@ -27,7 +27,7 @@ namespace MapDownloader
 
         private void frmStartup_Load(object sender, EventArgs e)
         {
-            string json = client.DownloadString("https://raw.githubusercontent.com/Vauff/MapDownloader/master/servers.json");
+            string json = client.DownloadString("https://raw.githubusercontent.com/Supreme-Elite/MapDownloader/master/servers.json");
 
             using (JsonDocument document = JsonDocument.Parse(json))
             {

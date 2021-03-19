@@ -102,7 +102,7 @@
 			this.lblLink.Size = new System.Drawing.Size(234, 15);
 			this.lblLink.TabIndex = 5;
 			this.lblLink.TabStop = true;
-			this.lblLink.Text = "https://github.com/Vauff/MapDownloader";
+			this.lblLink.Text = "https://github.com/Supreme-Elite/MapDownloade";
 			this.lblLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lblLink_LinkClicked);
 			// 
 			// FrmAbout
