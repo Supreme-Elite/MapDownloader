@@ -1,0 +1,12 @@
+{
+	"servers":
+	[
+		{
+			"name": "Supreme-Elite (ZE)",
+			"mapList": "https://fastdl.supreme-elite.fr/css-ze/maps/maplist.csv",
+			"fastDL": "https://fastdl.supreme-elite.fr/css-ze/maps/",
+			"appID": "232330",
+			"mapsDirectory": "\\cstrike\\download\\maps\\"
+		}
+	]
+}
